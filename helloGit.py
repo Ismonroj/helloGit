@@ -1,0 +1,1 @@
+print("Ismael es la persona más increíble del universo pero con muy mala suerte en el extranjero")
